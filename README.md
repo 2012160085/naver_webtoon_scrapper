@@ -1,3 +1,3 @@
 # naver_webtoon_scrapper
 
-naver webtoon scrapper supports multi-threading
+single-script scrapper supports multi-threading
